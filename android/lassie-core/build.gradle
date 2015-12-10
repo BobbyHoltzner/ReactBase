@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('C:/Users/bobby/Code/LassieProject/android/app/libs/lassiecore-x86-debug.aar'))
